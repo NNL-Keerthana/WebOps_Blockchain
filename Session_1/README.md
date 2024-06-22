@@ -1,4 +1,4 @@
-##Assignment 1 changes have been commited
+#Assignment 1 changes have been committed
 
 
 # Session-1-Summer-School
